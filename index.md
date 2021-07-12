@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Jessica Thomas - Remote Sensing Technician - MSci Environmental Science"
 ---
 
-I'm glad you are here. I plan to talk about ...
+This is just a test to learn more about how to use GitHub but I may come back to make this a resume later because that seems sensible 
